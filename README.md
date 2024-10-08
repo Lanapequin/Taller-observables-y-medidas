@@ -19,13 +19,32 @@ Este simulador cuántico ofrece las siguientes funcionalidades:
 
 En conjunto, este simulador ofrece una herramienta poderosa para explorar y comprender los principios fundamentales de la mecánica cuántica.
 
+## Instrucciones
+Configuración del Entorno:
+
+Activa el entorno virtual:
+- En Windows:
+```
+.venv\Scripts\activate
+```
+- En macOS y Linux:
+```
+source .venv/bin/activate
+```
+
 ## Prerrequisitos
-Para ejecutar el código, asegúrate de tener instalados las siguientes librerias:
+Para ejecutar Observables.ipynb, asegúrate de tener instaladas las siguientes librerias:
 
 - **NumPy**: para realizar cálculos matemáticos.
 
 Puedes instalar las dependencias necesarias utilizando pip:
 
-```bash
+```
 pip install numpy
 ```
+
+### Construido con
+Este proyecto fue construido con [Python 3.12](https://www.python.org/)
+
+### Colaboradores
+Laura Natalia Perilla Quintero [Lanapequin](https://github.com/Lanapequin)
