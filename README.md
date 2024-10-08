@@ -20,7 +20,7 @@ Este simulador cuántico ofrece las siguientes funcionalidades:
 En conjunto, este simulador ofrece una herramienta poderosa para explorar y comprender los principios fundamentales de la mecánica cuántica.
 
 ## Prerrequisitos
-Para ejecutar el código, asegúrate de tener instalados los siguientes paquetes:
+Para ejecutar el código, asegúrate de tener instalados las siguientes librerias:
 
 - **NumPy**: para realizar cálculos matemáticos.
 
