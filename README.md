@@ -53,12 +53,24 @@ donde |sᵢ⟩ representa el i-ésimo estado básico del sistema de n partícula
 ## Ejercicio 4.5.3
 
 Un **estado separable** en mecánica cuántica significa que se puede escribir como el producto tensorial de estados independientes de los subsistemas que lo componen. 
-Un estado $$|\psi\rangle$$ es separable si puede escribirse de la forma:
+Un estado 
+$$
+|\psi\rangle
+$$ 
+es separable si puede escribirse de la forma:
 $$
 |\psi\rangle = |\psi_1\rangle \otimes |\psi_2\rangle
 $$
 
-donde $$|\psi_1\rangle$$ es el estado del primer subsistema y $$|\psi_2\rangle$$ es el estado del segundo subsistema.
+donde 
+$$
+|\psi_1\rangle
+$$
+ es el estado del primer subsistema y 
+ $$
+ |\psi_2\rangle
+ $$
+  es el estado del segundo subsistema.
 
 Por otro lado, si el estado no puede escribirse de esta forma, se considera un **estado entrelazado**.
 
@@ -71,14 +83,34 @@ $$
 |\phi\rangle = |x_0\rangle \otimes |y_1\rangle + |x_1\rangle \otimes |y_1\rangle.
 $$
 
-Tanto el primer término $$|x_0\rangle \otimes |y_1\rangle$$ como el segundo término $$|x_1\rangle \otimes |y_1\rangle$$ tienen en común el estado $$|y_1\rangle$$  Esto significa que se puede factorizar $$|y_1\rangle$$ fuera de la expresión:
+Tanto el primer término 
+$$
+|x_0\rangle \otimes |y_1\rangle
+$$
+ como el segundo término 
+$$
+ |x_1\rangle \otimes |y_1\rangle
+$$ 
+ tienen en común el estado 
+$$
+|y_1\rangle
+$$  
+Esto significa que se puede factorizar 
+$$
+|y_1\rangle
+$$
+ fuera de la expresión:
 $$
 |\phi\rangle = (|x_0\rangle + |x_1\rangle) \otimes |y_1\rangle.
 $$
 
 ### Paso 2: Interpretación de la factorización
 
-Al escribir $$|\phi\rangle$$ de esta manera, se observan dos partes:
+Al escribir 
+$$
+|\phi\rangle
+$$ 
+de esta manera, se observan dos partes:
 
 1. |x₀⟩ + |x₁⟩ describe un estado del **primer subsistema**.
 
@@ -91,7 +123,14 @@ En este caso, logré escribir el estado completo como:
 $$
 |\phi\rangle = (|x_0\rangle + |x_1\rangle) \otimes |y_1\rangle
 $$
-lo cual **sí** es un producto tensorial entre un estado del primer subsistema $$|x_0\rangle + |x_1\rangle$$ y un estado del segundo subsistema $$|y_1\rangle$$
+lo cual **sí** es un producto tensorial entre un estado del primer subsistema 
+$$
+|x_0\rangle + |x_1\rangle
+$$
+ y un estado del segundo subsistema 
+$$
+|y_1\rangle
+$$
 
 ### Conclusión
 
