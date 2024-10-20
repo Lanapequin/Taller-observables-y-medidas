@@ -19,6 +19,39 @@ Este simulador cuántico ofrece las siguientes funcionalidades:
 
 En conjunto, este simulador ofrece una herramienta poderosa para explorar y comprender los principios fundamentales de la mecánica cuántica.
 
+## Ejercicio 4.5.2
+
+Este ejercicio aborda la formulación del vector de estado para un sistema de partículas con spin, comenzando con dos partículas y generalizándolo a \( n \) partículas.
+
+### 1. Sistema de Dos Partículas con Spin
+
+Para un sistema de dos partículas, cada una puede estar en uno de dos estados de spin: "arriba" |↑⟩ o "abajo" |↓⟩. Los estados básicos son:
+
+1. |↑↑⟩
+2. |↑↓⟩
+3. |↓↑⟩
+4. |↓↓⟩
+
+El vector de estado genérico para dos partículas se expresa como:
+
+$$
+|\psi\rangle = a_{1} |\uparrow \uparrow\rangle + a_{2} |\uparrow \downarrow\rangle + a_{3} |\downarrow \uparrow\rangle + a_{4} |\downarrow \downarrow\rangle
+$$
+
+donde $$a_{1}, a_{2}, a_{3}, a_{4}$$ son coeficientes complejos que representan las amplitudes de probabilidad de cada estado.
+
+### 2. Generalización a \( n \) Partículas
+
+Para un sistema de \( n \) partículas, el número total de estados básicos es \( 2^n \). El vector de estado genérico se escribe como:
+
+$$
+|\psi\rangle = \sum_{i=1}^{2^n} a_i |s_i\rangle
+$$
+
+donde |sᵢ⟩ representa el i-ésimo estado básico del sistema de n partículas, y aᵢ son coeficientes complejos.
+
+
+
 ## Instrucciones
 Configuración del Entorno:
 
