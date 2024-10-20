@@ -89,7 +89,7 @@ Al escribir $$|\phi\rangle$$ de esta manera, se observan dos partes:
 
 En este caso, logré escribir el estado completo como:
 $$
-|\phi\rangle = (|x_0\rangle + |x_1\rangle) \otimes |y_1\rangle,
+|\phi\rangle = (|x_0\rangle + |x_1\rangle) \otimes |y_1\rangle
 $$
 lo cual **sí** es un producto tensorial entre un estado del primer subsistema $$|x_0\rangle + |x_1\rangle$$ y un estado del segundo subsistema $$|y_1\rangle$$
 
@@ -124,7 +124,7 @@ pip install numpy matplotlib
 ```
 
 ### Construido con
-Este proyecto fue construido con [Python 3.12]https://www.python.org/
+Este proyecto fue construido con [Python 3.12](https://www.python.org/)
 
 ### Colaboradores
-Laura Natalia Perilla Quintero [Lanapequin]https://github.com/Lanapequin
+Laura Natalia Perilla Quintero [Lanapequin](https://github.com/Lanapequin)
