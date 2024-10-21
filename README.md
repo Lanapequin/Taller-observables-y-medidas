@@ -68,38 +68,22 @@ Por otro lado, si el estado no puede escribirse de esta forma, se considera un *
 ### Paso 1: Reescribir el estado
 
 El estado del ejercicio es:
+
 $$
 |\phi\rangle = |x_0\rangle \otimes |y_1\rangle + |x_1\rangle \otimes |y_1\rangle.
 $$
 
-Tanto el primer término 
-$$
-|x_0\rangle \otimes |y_1\rangle
-$$
-como el segundo término 
-$$
-|x_1\rangle \otimes |y_1\rangle
-$$ 
-tienen en común el estado 
-$$
-|y_1\rangle
-$$  
-Esto significa que se puede factorizar 
-$$
-|y_1\rangle
-$$
-fuera de la expresión:
+Tanto el primer término $$|x_0\rangle \otimes |y_1\rangle$$ como el segundo término $$|x_1\rangle \otimes |y_1\rangle$$ tienen en común el estado $$|y_1\rangle$$  
+
+Esto significa que se puede factorizar $$|y_1\rangle$$ fuera de la expresión:
+
 $$
 |\phi\rangle = (|x_0\rangle + |x_1\rangle) \otimes |y_1\rangle.
 $$
 
 ### Paso 2: Interpretación de la factorización
 
-Al escribir 
-$$
-|\phi\rangle
-$$ 
-de esta manera, se observan dos partes:
+Al escribir $$|\phi\rangle$$ de esta manera, se observan dos partes:
 
 1. |x₀⟩ + |x₁⟩ describe un estado del **primer subsistema**.
 
@@ -109,14 +93,19 @@ de esta manera, se observan dos partes:
 ### Paso 3: Significado de separabilidad
 
 En este caso, logré escribir el estado completo como:
+
 $$
 |\phi\rangle = (|x_0\rangle + |x_1\rangle) \otimes |y_1\rangle
 $$
+
 lo cual **sí** es un producto tensorial entre un estado del primer subsistema 
+
 $$
 |x_0\rangle + |x_1\rangle
 $$
+
 y un estado del segundo subsistema 
+
 $$
 |y_1\rangle
 $$
