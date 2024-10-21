@@ -58,15 +58,8 @@ Un estado $$|\psi\rangle$$ es separable si puede escribirse de la forma:
 $$
 |\psi\rangle = |\psi_1\rangle \otimes |\psi_2\rangle
 $$
-donde 
-$$
-|\psi_1\rangle
-$$
-es el estado del primer subsistema y 
-$$
-|\psi_2\rangle
-$$
-es el estado del segundo subsistema.
+
+donde $$|\psi_1\rangle$$ es el estado del primer subsistema y $$|\psi_2\rangle$$ es el estado del segundo subsistema.
 
 Por otro lado, si el estado no puede escribirse de esta forma, se considera un **estado entrelazado**.
 
