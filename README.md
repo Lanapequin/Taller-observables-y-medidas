@@ -53,7 +53,7 @@ donde |sᵢ⟩ representa el i-ésimo estado básico del sistema de n partícula
 ## Ejercicio 4.5.3
 
 Un **estado separable** en mecánica cuántica significa que se puede escribir como el producto tensorial de estados independientes de los subsistemas que lo componen. 
-Un estado 
+Un estado:
 $$
 |\psi\rangle
 $$ 
@@ -66,11 +66,11 @@ donde
 $$
 |\psi_1\rangle
 $$
- es el estado del primer subsistema y 
- $$
- |\psi_2\rangle
- $$
-  es el estado del segundo subsistema.
+es el estado del primer subsistema y 
+$$
+|\psi_2\rangle
+$$
+es el estado del segundo subsistema.
 
 Por otro lado, si el estado no puede escribirse de esta forma, se considera un **estado entrelazado**.
 
