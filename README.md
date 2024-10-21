@@ -53,16 +53,11 @@ donde |sᵢ⟩ representa el i-ésimo estado básico del sistema de n partícula
 ## Ejercicio 4.5.3
 
 Un **estado separable** en mecánica cuántica significa que se puede escribir como el producto tensorial de estados independientes de los subsistemas que lo componen. 
-Un estado
+Un estado $$|\psi\rangle$$ es separable si puede escribirse de la forma:
 
-$$
-|\psi\rangle
-$$ 
-es separable si puede escribirse de la forma:
 $$
 |\psi\rangle = |\psi_1\rangle \otimes |\psi_2\rangle
 $$
-
 donde 
 $$
 |\psi_1\rangle
