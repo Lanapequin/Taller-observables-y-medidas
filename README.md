@@ -42,7 +42,7 @@ donde $$a_{1}, a_{2}, a_{3}, a_{4}$$ son coeficientes complejos que representan 
 
 ### 2. Generalización a (n) Partículas
 
-Para un sistema de (n) partículas, el número total de estados básicos es $$ 2^n $$ El vector de estado genérico se escribe como:
+Para un sistema de (n) partículas, el número total de estados básicos es $$2^n$$ El vector de estado genérico se escribe como:
 
 $$
 |\psi\rangle = \sum_{i=1}^{2^n} a_i |s_i\rangle
@@ -53,7 +53,8 @@ donde |sᵢ⟩ representa el i-ésimo estado básico del sistema de n partícula
 ## Ejercicio 4.5.3
 
 Un **estado separable** en mecánica cuántica significa que se puede escribir como el producto tensorial de estados independientes de los subsistemas que lo componen. 
-Un estado:
+Un estado
+
 $$
 |\psi\rangle
 $$ 
@@ -87,11 +88,11 @@ Tanto el primer término
 $$
 |x_0\rangle \otimes |y_1\rangle
 $$
- como el segundo término 
+como el segundo término 
 $$
- |x_1\rangle \otimes |y_1\rangle
+|x_1\rangle \otimes |y_1\rangle
 $$ 
- tienen en común el estado 
+tienen en común el estado 
 $$
 |y_1\rangle
 $$  
@@ -99,7 +100,7 @@ Esto significa que se puede factorizar
 $$
 |y_1\rangle
 $$
- fuera de la expresión:
+fuera de la expresión:
 $$
 |\phi\rangle = (|x_0\rangle + |x_1\rangle) \otimes |y_1\rangle.
 $$
@@ -127,7 +128,7 @@ lo cual **sí** es un producto tensorial entre un estado del primer subsistema
 $$
 |x_0\rangle + |x_1\rangle
 $$
- y un estado del segundo subsistema 
+y un estado del segundo subsistema 
 $$
 |y_1\rangle
 $$
